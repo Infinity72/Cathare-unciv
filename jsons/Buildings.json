@@ -4,9 +4,9 @@
 		"replaces": "Temple",
 		"uniqueTo": "Cathare",
 		"maintenance": 0,
-		"uniques": ["Doubles Gold given to enemy if city is captured"],"[+5]% Great Person generation [in this city]"
-		"culture": 2,
-		"happiness": 2,
+		"uniques": ["[+5]% Great Prophet generation [in this city]"
+		"Faith": 1,
+		"production": 2,
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
