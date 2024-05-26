@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Chevalier cathare",
+		"unitType": "Mounted",
+		"uniqueTo": "Cathare",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 15,
+		"cost": 70,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Faydits",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-40]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
 		"name": "Faydits",
 		"unitType": "Mounted",
 		"uniqueTo": "Cathare",
