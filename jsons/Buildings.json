@@ -10,6 +10,6 @@
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
-	},
+	}
 	
 ]
