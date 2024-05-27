@@ -1,5 +1,3 @@
 # Unciv-mod-example
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Une mod pour unciv, ajoute une nouvelle civilisation : Les Cathares. Ils possèdent 2 unitées spéciales qui remplace les "horseman" et les "knight" et une merveille.
