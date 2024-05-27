@@ -13,7 +13,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-40]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "horse",
 	},
 	{
 		"name": "Faydits",
@@ -26,6 +26,6 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","[-40]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"attackSound": "horse",
 	}
 ]
