@@ -5,11 +5,11 @@
 		"uniqueTo": "Cathare",
 		"cost": 0,
 		"hurryCostModifier": 25,
-		"Faith": 1,
-		"production": 2,
+		"Faith": 2,
 		"maintenance": 0,
-		"uniques": ["[+5]% Great Prophet generation [in this city]"], 
-		"requiredBuilding": "Monument",
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "[+10]% Great Prophet generation [in this city]"], 
+		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
 	{
