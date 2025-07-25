@@ -27,10 +27,10 @@
 		"afterPeace": "Des âmes sont retourné dans leurs royaumes...mais il est temps d'arreter cela.",
 		"tradeRequest": "Nous pourrions échanger.",
 
-			"outerColor": [255,59,10],
+		"outerColor": [255,59,10],
 		"innerColor": [255,229,0],
-		"uniqueName": "Dualisme"
-		"uniques": ["[+50% Production] [in all cities]","[-50% Culture] [in all cities]",
+		"uniqueName": "Foi Inflexible"
+		"uniques": ["[+50% Faith] [in all cities]", "[+1] Movement <for [Mounted] units>"],
 		"cities": ["Montségur","Carcassonne","Lastours","Quéribus","Puilaurens","Peyrepertuse","Termes","Arques","Roquefixade",
 			"Foix","Puivert","Usson","Villerouge-Termenès","Alet-les-Bains","Aguilar","Durfort","Fanjeaux","Mazamet","Lagrasse",
 			"Narbonne","Minerve","Béziers","Albi","Toulouse","Castelnaudary","Limoux","Mirepoix","Laurac","Montolieu",
