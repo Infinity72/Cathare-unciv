@@ -21,7 +21,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [15] Experience [in this city]","Free [Great General] appears","[+1 Faith] from [hill] tiles [in this city]"],
+		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [15] XP [in this city]", "Free [Great General] appears","[+1 Faith] from [hill] tiles [in this city]"],
 		"quote": "'La folie des croisades est ce qui à le plus honoré la raison humaine.'-Léon BLOY" 
 	},
 	
