@@ -34,6 +34,7 @@
 		"cities": ["Montségur","Carcassonne","Lastours","Quéribus","Puilaurens","Peyrepertuse","Termes","Arques","Roquefixade",
 			"Foix","Puivert","Usson","Villerouge-Termenès","Alet-les-Bains","Aguilar","Durfort","Fanjeaux","Mazamet","Lagrasse",
 			"Narbonne","Minerve","Béziers","Albi","Toulouse","Castelnaudary","Limoux","Mirepoix","Laurac","Montolieu",
-			"Bram","Lavaur","Saissac","Auriac","Niort-de-Sault","Lapradelle-Puilaurens"]
+			"Bram","Lavaur","Saissac","Auriac","Niort-de-Sault","Lapradelle-Puilaurens"],
+		"spyNames": ["Aaron", "Abram", "Acaire", "Bruna", "Cendron", "Rose", "Diana", "Elvira", "Faïs", "Ladislau"]
 	}
 ]
