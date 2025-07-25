@@ -30,7 +30,7 @@
 		"outerColor": [255,59,10],
 		"innerColor": [255,229,0],
 		"uniqueName": "Foi Inflexible"
-		"uniques": ["[+50% Faith] [in all cities]", "[+1] Movement <for [Mounted] units>"],
+		"uniques": ["[+1% Faith] [in all cities]", "[+1] Movement <for [Mounted] units>"],
 		"cities": ["Montségur","Carcassonne","Lastours","Quéribus","Puilaurens","Peyrepertuse","Termes","Arques","Roquefixade",
 			"Foix","Puivert","Usson","Villerouge-Termenès","Alet-les-Bains","Aguilar","Durfort","Fanjeaux","Mazamet","Lagrasse",
 			"Narbonne","Minerve","Béziers","Albi","Toulouse","Castelnaudary","Limoux","Mirepoix","Laurac","Montolieu",
