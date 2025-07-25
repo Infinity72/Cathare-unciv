@@ -8,7 +8,8 @@
 		"Faith": 2,
 		"maintenance": 0,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "[+10]% Great Prophet generation [in this city]"], 
+		"greatPersonPoints": {"Great Prophet": 1},
+		"uniques": ["Only available <when religion is enabled>"], 
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
