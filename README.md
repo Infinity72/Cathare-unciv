@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Unciv-mod-cathare
 
-Une mod pour unciv, ajoute une nouvelle civilisation : Les Cathares. Ils possèdent 2 unitées spéciales qui remplace les "horseman" et les "knight" et une merveille.
-Les Cathares on un bonus de +50% en production et un malus de -50% culture dans toutes leurs villes. 
+Une mod pour unciv, ajoute une nouvelle civilisation : Les Cathares. Ils possèdent 2 unitées spéciales qui remplace les "horseman" et les "knight", de plus leurs temples sont plus interessant. Enfin ils possède une merveille unique. 
+Les Cathares on un bonus unique, qui leurs confère plus 50% de "faith" dans leurs villes et 
