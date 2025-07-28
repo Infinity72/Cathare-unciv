@@ -4,37 +4,37 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+NationIcons/Cathare
+ rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Temple cathare
   rotate: false
-  xy: 100, 4
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Chateau de Montségur
   rotate: false
-  xy: 200, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Cathare
-  rotate: false
-  xy: 0, 4
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Chevalier cathare
   rotate: false
-  xy: 300, 4
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Faydits
   rotate: false
-  xy: 400, 4
+  xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
